@@ -45,7 +45,7 @@ def login(email, password, proxy=None):
         password_field.send_keys(char)
     wait.until(EC.visibility_of_element_located((By.ID,"passwordNext"))).click()
     
-    time.sleep(3)#if accounts ask otp means change sleep into 15 seconds  
+    time.sleep(3)#when accounts auto login if ask otp means change sleep into 15 seconds  
     
     with open("urls.txt") as f:
          for url in f:
