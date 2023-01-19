@@ -1,5 +1,5 @@
 
-#Replace Email and Passwords in email.txt files..
+Replace Email and Passwords in email.txt files..(its automatically login and hits 30 auto cmts by one by one accounts how much emails with password are you entered in emails.txt file)
 
 👉note:-use accounts which dont have 2-factor authentication...
 
