@@ -45,10 +45,12 @@ def login(email, password, proxy=None):
         password_field.send_keys(char)
     wait.until(EC.visibility_of_element_located((By.ID,"passwordNext"))).click()
     
-    time.sleep(2)
+    time.sleep(3)  
     
-    driver.get("https://youtu.be/WH9cPDywceU") #replace with your required video url which you want to auto comment
-
+    with open("urls.txt") as f:
+         for url in f:
+             driver.get(url) 
+             
     time.sleep(7)
     
     driver.find_element_by_css_selector('#movie_player > div.ytp-chrome-bottom > div.ytp-chrome-controls > div.ytp-left-controls > button').click()
