@@ -417,9 +417,9 @@ def login(email, password, proxy=None):
 
     send_comment_button = driver.find_element_by_id("submit-button").click()
       
-    time.sleep(4)#after one acc auto login and hits 30 cmts it again choose another accs and do same process
+    time.sleep(4)
 
-    driver.close()
+    driver.close()#after one acc auto login and hits 30 cmts it again choose another accs and do same process
 
 
 def main(email,password):
