@@ -5,7 +5,7 @@
 
 change the cmt text if you needed to your required cmts in 20th line
 
-replace 50th line with youtube video url..
+replace your video required url in urls.txt file..
 
 After download the folder extract it and open cmd and enter Python If You Find Python Version
 
