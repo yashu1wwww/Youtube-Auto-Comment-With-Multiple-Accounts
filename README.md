@@ -1,7 +1,7 @@
 
 #Replace Email and Passwords in email.txt files..
 
-note:-use accounts which dont have 2-factor authentication...
+👉note:-use accounts which dont have 2-factor authentication...
 
 change the cmt text if you needed to your required cmts in 11th line
 
