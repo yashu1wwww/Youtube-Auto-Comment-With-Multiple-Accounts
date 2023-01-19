@@ -1,5 +1,5 @@
 
-#Replace Email and Passwords in txt file
+#Replace Email and Passwords in email.txt files..
 
 note:-use accounts which dont have 2-factor authentication...
 
@@ -9,15 +9,31 @@ replace 27th line with youtube video url..
 
 After download the folder extract it and open cmd and enter Python If You Find Python Version
 
-Then enter pip install undetected_chromedriver in cmd and hit enter button (internet connection will be in on)
+Then enter 
 
-and all requirements like
+pip install undetected_chromedriver
 
+in cmd and hit enter button (internet connection will be in on)
 
+and all requirements one by one
 
-and enter pip install random in cmd and hit enter button
-
-and Pip install Proxy in cmd and hit enter button
+pip install beautifulsoup4
+pip install bs4
+pip install certifi
+pip install chardet
+pip install idna
+pip install numpy
+pip install requests
+pip install selenium
+pip install soupsieve
+pip install spintax
+pip install urllib3
+pip install webdriver_manager
+pip install undetected_chromedriver
+pip install lxml
+pip install config
+pip install random 
+in cmd and hit enter button
 
 After download the chromedriver(https://chromedriver.chromium.org/downloads extract these to downloaded folder)and with matches your chrome version of your pc
 
