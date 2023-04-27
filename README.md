@@ -1,21 +1,11 @@
 
-Replace Email and Passwords in email.txt files..(its automatically login and hits 30 auto cmts by one by one accounts how much emails with password are you entered in emails.txt file)
+Please replace the email and passwords in the "email.txt" file. This will automatically log in and post 30 comments by each account that you have entered with its respective email and password in the "email.txt" file. Please make sure to use accounts that do not have 2-factor authentication.
 
-👉note:-use accounts which dont have 2-factor authentication...
+If you need to change the comment text, you can do so in the 20th line of the code.
 
-change the cmt text if you needed to your required cmts in 20th line
+Please replace the URL you want to use in the "urls.txt" file.
 
-replace your video required url in urls.txt file..
-
-After download the folder extract it and open cmd and enter Python If You Find Python Version
-
-Then enter 
-
-pip install undetected_chromedriver
-
-in cmd and hit enter button (internet connection will be in on)
-
-and all requirements one by one
+After downloading the folder, extract it and open the command prompt. If you have Python installed, enter "python" in the command prompt to check your version. Then enter "pip install undetected_chromedriver" in the command prompt and hit enter (please ensure you have an internet connection). Install all other requirements one by one as required.
 
 pip install beautifulsoup4
 
@@ -51,15 +41,15 @@ pip install random
 
 in cmd and hit enter button
 
-After download the chromedriver(https://chromedriver.chromium.org/downloads extract these to downloaded folder)and with matches your chrome version of your pc
+👉After downloading the appropriate chromedriver version for your Chrome browser from https://chromedriver.chromium.org/downloads, extract it to the downloaded folder.
 
-enter main.py in cmd on that particular folder or double click on main.py
+Next, open the command prompt and navigate to the downloaded folder. Then, enter "main.py" in the command prompt to run the program or double-click on "main.py
 
 👉Python Install Setup=https://youtu.be/4bUOrMj88Pc
 
 👉Note:-
 
-👉if your selenium version is in latest version then the code never run
+👉If you have the latest version of Selenium, the code may not run.
 
 👉open cmd and
 
