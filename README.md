@@ -1,5 +1,9 @@
 
-Please replace the email and passwords in the "email.txt" file. This will automatically log in and post 30 comments by each account that you have entered with its respective email and password in the "email.txt" file. Please make sure to use accounts that do not have 2-factor authentication.
+Please replace the email and passwords in the "email.txt" file. 
+
+This will automatically log in and post 30 comments by each account that you have entered with its respective email and password in the "email.txt" file. 
+
+# Please make sure to use accounts that do not have 2-factor authentication.
 
 If you need to change the comment text, you can do so in the 20th line of the code.
 
