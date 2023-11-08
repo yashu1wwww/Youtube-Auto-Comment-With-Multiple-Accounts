@@ -87,7 +87,7 @@ def login(email, password, proxy=None):
         
     time.sleep(3)
 
-    driver.close()#after one acc auto login and hits 30 cmts it again choose another accs and do same process
+    driver.close() #after one acc auto login and hits 30 cmts it again choose another accs and do same process
 
 
 def main(email,password):
