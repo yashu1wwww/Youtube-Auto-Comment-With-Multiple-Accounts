@@ -7,9 +7,15 @@ This will automatically log in and post 30 comments by each account that you hav
 
 If you need to change the comment text, you can do so in the 20th line of the code.
 
+Change the number 30 to how many comments you want in 81th line...
+
 Please replace the URL you want to use in the "urls.txt" file.
 
-After downloading the folder, extract it and open the command prompt. If you have Python installed, enter "python" in the command prompt to check your version. Then enter "pip install undetected_chromedriver" in the command prompt and hit enter (please ensure you have an internet connection). Install all other requirements one by one as required.
+After downloading the folder, extract it and open the command prompt. If you have Python installed, 
+
+enter "python" in the command prompt to check your version. Then enter "pip install undetected_chromedriver" in the command prompt and hit enter (please ensure you have an internet connection). 
+
+Install all other requirements one by one as required.
 
 pip install beautifulsoup4
 
