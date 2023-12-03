@@ -5,6 +5,10 @@ This will automatically log in and post 30 comments by each account that you hav
 
 # Please make sure to use accounts that do not have 2-factor authentication.
 
+# Use These If These Don't Run Means .
+
+https://github.com/yashu1wwww/500-Auto-Youtube-Comments-Using-Localhost
+
 If you need to change the comment text, you can do so in the 20th line of the code.
 
 Change the number 30 to how many comments you want in 81th line...
